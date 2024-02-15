@@ -27,10 +27,6 @@ Extension uses [MediaStream recording API](https://developer.mozilla.org/en-US/d
 
 ![](screenshot2.png)
 
-### Donations
-
-If you like it and want to say thanks, [donations](https://donate.stripe.com/3cseYI2OQ8J0aOI288) are welcome.
-
 ---
 
 # NJ Screencast - бесплатное, безопасное и простое решение для записи экрана.
